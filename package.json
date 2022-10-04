@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/zachgexler/Rogue-Titan-Backend#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
     "express": "^4.18.1",
-    "mongoose": "^6.6.4"
+    "mongoose": "^6.6.4",
+    "morgan": "^1.10.0",
+    "partials": "^0.1.0"
   }
 }
