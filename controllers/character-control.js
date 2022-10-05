@@ -52,3 +52,5 @@ module.exports =
     deleteCharacter,
     updateCharacter
 }
+
+//ZG created 10-3 and 10-4
