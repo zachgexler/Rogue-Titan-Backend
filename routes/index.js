@@ -21,4 +21,6 @@ router.route('/character/update/:id').put(updateCharacter);
 // TEST
 router.route('/').get(test);
 
-module.exports = router;
+module.exports = router
+
+//ZG created 10-3 and 10-4
