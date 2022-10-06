@@ -14,6 +14,8 @@ const mongoose = require("mongoose");
 const path = require('path');
 // import routes
 const routes = require('./routes');
+
+const db = require("./config/connection")
 // import middleWare
 const cors = require("cors");
 const morgan = require("morgan");
