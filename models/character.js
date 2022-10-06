@@ -22,3 +22,4 @@ const characterSchema = new Schema(
 const Character = model('Character', characterSchema);
 
 module.exports = Character;
+//ZG created 10-3 and 10-4
